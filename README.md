@@ -29,5 +29,7 @@ It uses **natural language processing (NLP)** to analyze wine descriptions and c
 ## Installation
 
 1. Clone the repository (or open in Google Colab)
-2. Install required packages
-3. Run it
+   ```bash
+   git clone https://github.com/skeleton111222/Wine-Quality-Prediction-from-Review-Text
+3. Install required packages
+4. Run it
