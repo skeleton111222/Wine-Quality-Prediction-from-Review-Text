@@ -2,7 +2,7 @@
 
 ## Overview
 This project is a **deep learning model** that predicts whether a wine is **high quality (90+ points)** or not based solely on its **review text**.  
-It uses **natural language processing (NLP)** to analyze wine descriptions and classify them into **high quality** or **not high quality**.
+It uses **Natural Language Processing (NLP)** to analyze wine descriptions and classify them into **high quality** or **not high quality**.
 
 ---
 
